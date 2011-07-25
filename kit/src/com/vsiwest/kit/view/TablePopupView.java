@@ -13,7 +13,7 @@ import java.awt.event.MouseEvent;
 import java.beans.PropertyVetoException;
 
 /**
- * (c) Copyright 2006 vsiwest, Inc.  All rights reserved.
+ * (c) Copyright 2011 vsiwest, Inc.  All rights reserved.
  * Confidential Information.  Do not copy or distribute without express written permission.
  */
 class TablePopupView {

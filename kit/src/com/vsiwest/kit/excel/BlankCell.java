@@ -10,7 +10,7 @@ import java.io.Serializable;
  * Cell Type "Skip" does not produce these nodes,  or any other nodes, but almost any other cell type which ends up
  * NULL or blank will return our "INSTANCE" singleton, which enforces a String celltype.
  * <p/>
- * (c) Copyright 2006 vsiwest, Inc.  All rights reserved.
+ * (c) Copyright 2011 vsiwest, Inc.  All rights reserved.
  * Confidential Information.  Do not copy or distribute without express written permission.
  */
 public class BlankCell extends CellImpl<String> {

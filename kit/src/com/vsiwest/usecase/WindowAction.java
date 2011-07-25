@@ -19,7 +19,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 /**
- * (c) Copyright 2006 vsiwest, Inc.  All rights reserved.
+ * (c) Copyright 2011 vsiwest, Inc.  All rights reserved.
  * Confidential Information.  Do not copy or distribute without express written permission.
  */
 final class WindowAction extends AbstractAction {

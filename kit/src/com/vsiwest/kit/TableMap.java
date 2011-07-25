@@ -6,7 +6,7 @@ import javax.swing.table.AbstractTableModel;
 import javax.swing.table.TableModel;
 
 /**
- * (c) Copyright 2006 vsiwest, Inc.  All rights reserved.
+ * (c) Copyright 2011 vsiwest, Inc.  All rights reserved.
  * Confidential Information.  Do not copy or distribute without express written permission.
  */
 class TableMap extends AbstractTableModel

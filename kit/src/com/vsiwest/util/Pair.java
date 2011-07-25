@@ -4,7 +4,7 @@ import java.io.*;
 import java.text.*;
 
 /**
- * (c) Copyright 2006 vsiwest, Inc.  All rights reserved.
+ * (c) Copyright 2011 vsiwest, Inc.  All rights reserved.
  * Confidential Information.  Do not copy or distribute without express written permission.
  */
 final public class Pair<TFirst, TSecond> implements Serializable {

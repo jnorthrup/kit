@@ -6,7 +6,7 @@ import static com.vsiwest.kit.MD_KEYS.*;
 import java.util.EnumMap;
 
 /**
- * (c) Copyright 2006 vsiwest, Inc.  All rights reserved.
+ * (c) Copyright 2011 vsiwest, Inc.  All rights reserved.
  * Confidential Information.  Do not copy or distribute without express written permission.
  */
 public abstract class MdRefImpl implements MetaDataRef {
